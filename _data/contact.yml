@@ -2,26 +2,20 @@
 
 - type: github
   icon: "fab fa-github"
+  url:  'https://github.com/Adamcalkins'
 
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
+- type: linkedin
+  icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
+  url:  'https://www.linkedin.com/in/adam-cała-27381a253'                  # Fill with your Linkedin homepage
 
 - type: email
   icon: "fas fa-envelope"
+  url:  'mailto:adam.cala02@gmail.com'
   noblank: true # open link in current tab
 
-- type: rss
-  icon: "fas fa-rss"
-  noblank: true
-# Uncomment and complete the url below to enable more contact options
-#
-# - type: mastodon
-#   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
-#   url:  ''                  # Fill with your Mastodon account page, rel="me" will be applied for verification
-#
-# - type: linkedin
-#   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
-#   url:  ''                  # Fill with your Linkedin homepage
+- type: ctf-time
+  icon: "fas fa-flag"
+  url:  'https://ctftime.org/team/378405'
 #
 # - type: stack-overflow
 #   icon: 'fab fa-stack-overflow'

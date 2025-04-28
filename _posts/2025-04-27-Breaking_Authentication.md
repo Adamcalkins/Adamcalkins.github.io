@@ -1,8 +1,8 @@
 ---
-title: "Breaking Authentication"
+title: "🔐 Breaking Authentication"
 date: 2025-04-27 14:30:00 +02:00
-categories: [Writeup, CTF, Web]
-tags: [CIT-CTF, security, web]
+categories: [Writeup, "CIT@CTF"]
+tags: [CIT@CTF, security, web]
 ---
 # Writeup - CIT CTF Challenge: Breaking Authentication
 
